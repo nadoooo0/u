@@ -1,0 +1,54 @@
+================================================================================
+IELTS G-TELP LEVEL 2 - VOCABULARY EXTRACTION SUMMARY
+================================================================================
+
+EXTRACTION DETAILS:
+- Source: 5 IELTS G-TELP Level 2 Test PDFs
+- Total unique words extracted: 4,216
+- Total word occurrences: 13,965
+- Words in final list (top frequency): 300
+
+FILTERING CRITERIA APPLIED:
+- Excluded: Articles (a, an, the)
+- Excluded: Prepositions (in, on, at, by, for, to, from, with, etc.)
+- Excluded: Common stop words (is, are, be, have, do, etc.)
+- Excluded: Single letters and pure numbers
+- Included: All meaningful nouns, verbs, adjectives, adverbs, and content words
+
+TOP 10 MOST FREQUENT WORDS:
+  1. answer             - 106 occurrences
+  2. hear              - 106 occurrences
+  3. questions         -  86 occurrences
+  4. passage           -  81 occurrences
+  5. time              -  72 occurrences
+  6. best              -  62 occurrences
+  7. test              -  57 occurrences
+  8. new               -  55 occurrences
+  9. him               -  51 occurrences
+  10. vocabulary       -  51 occurrences
+
+VOCABULARY DISTRIBUTION:
+- Words with 50+ occurrences: 3 words
+- Words with 30-49 occurrences: 12 words
+- Words with 20-29 occurrences: 23 words
+- Words with 10-19 occurrences: 67 words
+- Words with 8-9 occurrences: 195 words
+
+KEY TEST SECTIONS REPRESENTED:
+- Grammar Section: Grammatical structures and functions
+- Listening Section: Listening comprehension vocabulary
+- Reading & Vocabulary Section: Contextual and academic vocabulary
+
+RECOMMENDED STUDY APPROACH:
+1. Focus on the top 100 words (highest frequency in tests)
+2. Learn words in context from the test passages
+3. Practice with example sentences from the reading section
+4. Use listening exercises to reinforce pronunciation and understanding
+5. Review grammar-related terms for the grammar section
+
+NOTE:
+- Some words like "com", "hackerslngang", "joplin", etc. are due to
+  OCR/text extraction artifacts or proper nouns used in test content
+  (company names, person names). Filter these based on your study needs.
+
+================================================================================
